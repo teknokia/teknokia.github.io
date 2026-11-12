@@ -32,7 +32,7 @@ triplelift.com, 14919, RESELLER, 6c33edb13117fd86
 rubiconproject.com, 27945, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 28945, RESELLER, 0bfd66d529a55807
 toponad.com, 16aec6880be2e7, RESELLER
-bigo.sg,cabvx3s8gh,DIRECT
+bigo.sg,cc4khovccu,DIRECT
 adingenious.com, 70392, RESELLER
 start.io, 115550145, RESELLER
 rubiconproject.com, 27026, RESELLER, 0bfd66d529a55807
@@ -54,6 +54,7 @@ pubnative.net, 1007349, RESELLER, d641df8625486a7b
 sovrn.com, 253233, RESELLER, fafdf38b16bf6b2b
 appnexus.com,15941,RESELLER
 lijit.com,512006, RESELLER, fafdf38b16bf6b2b #SOVRN
+appnexus.com, 12700, RESELLER, f5ab79cb980f11d1
 adagio.io, 1522, RESELLER
 vidoomy.com, 9148331, RESELLER
 adwmg.com, 101258, RESELLER, c9688a22012618e7
@@ -683,8 +684,6 @@ rubiconproject.com, 26584, RESELLER, 0bfd66d529a55807
 metup.it, AJxF6R108a9M6CaTvK, RESELLER
 pubmatic.com, 168506, RESELLER, 5d62403b186f2ace
 sharethrough.com, 1247, RESELLER, d53b998a7bd4ecd2
-bigo.sg,cc4khovccu,DIRECT
-appnexus.com, 12700, RESELLER, f5ab79cb980f11d1
 
 inmobi.com, 683476289cff4efc8f0dff68e5dbbcd9, DIRECT, 83e75a7ae333ca9d
 pangleglobal.com, 5005798, DIRECT
